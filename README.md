@@ -1,4 +1,12 @@
-# ecom chatbot
+# 🤖 ecom chatbot
+ 
+The ecom Chatbot is an intelligent assistant integrated into the e-commerce platform that enhances the shopping experience by enabling users to:
+
+🛍️ Search Products: Users can enter any keyword (e.g., "headphones", "organic", "shoes") and the chatbot searches for matching product names, categories, or descriptions.
+
+🔍 Instant Exploration: It instantly filters and displays relevant products based on the query.
+
+💬 Conversational Interaction: The chatbot responds conversationally, making the interaction feel natural and intuitive.
 
 This project consists of two parts:
 
@@ -12,7 +20,7 @@ This project consists of two parts:
 
 ---
 
-### 🛍️ ChatBot UI
+### 💬 ChatBot UI
 
 ![ChatBot UI](frontend/src/assets/chat.png)
 
